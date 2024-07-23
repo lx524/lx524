@@ -1,9 +1,9 @@
 <h1 align="center">Hi , I'm Xing Liu</h1>
 <h3 align="center">I Love CS and Math!</h3>
 
-<!--
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lx524" alt="lx524" /></a> </p>
--->
+
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning.**
 
